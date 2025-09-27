@@ -1,0 +1,10 @@
+J crypto
+
+Asymmetric   RSA
+new pair of key  enter password
+
+Algorithum   HASH MD5(SHA256)
+
+Symmetric    AES   Key from key stoke   custom key  key bit  finish
+
+Algorithum Signature   DSA   save the file  sign  create a new key  choose file
