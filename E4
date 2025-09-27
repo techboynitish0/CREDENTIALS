@@ -1,0 +1,27 @@
+www.github.com
+git bash tool
+
+
+$mkdir localrep
+$cd localrep
+$git init
+$cat > f1.txt(ctrl+D)
+$cat f1.txt
+$git add f1.txt
+$git commit -m "committed"
+
+
+remove git account in windows credential manager
+
+$git config --global user.username
+$git config --global user.email"emailID"
+
+$git remote add origin https://github.com/username/remote repo name
+
+
+$git branch -M main
+$git branch --set--upstream-to=origin/main.main
+
+$git push origin main
+
+$git pull origin main
