@@ -1,0 +1,15 @@
+reverse engineering
+
+
+https://github.com/skylot/jadx
+jadx-gui-1.4.7-with-jre-win.zip - jadx-gui with bundled JRE
+
+dailyhoroscope softonic app
+https://dailyhoroscope.en.softonic.com/android?ex=RAMP-3507.1&rex=true
+
+steps
+jadx,.zip file  select  extract file   (right click)
+
+
+jadx gui
+open file  select dailyhoroscope
