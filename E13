@@ -1,1 +1,30 @@
+otp bypassing in Burpsuite
 
+
+proxy
+
+
+open browser   type
+instafinance.com
+
+       or   
+
+        url
+https://www.instafinancials.com/login.aspx
+
+sign up
+random otp
+
+burp suite
+intercept on
+
+verify otp
+
+burp suite
+right click     do intercept     
+
+click   onforward
+
+
+
+change d2 as d1
